@@ -9,4 +9,4 @@ Fork the Repo and add details as described in the activity challenge:
 |---------|---------|---------|---------|
 |1     |    ChrisAchinga    |     [ChrisAchinga](https://github.com/ChrisAchinga/ChrisAchinga)    |    Not a robot     |
 |2    |    FamousBern     |     [FamousBern](https://github.com/FamousBern/FamousBern.git)    |    software developer/SysAdmin     |
-|2    |    Pelusharaz     |     [Pelusharaz](https://github.com/Pelusharaz/Pelusharaz)    |    Human     |
+|3   |    Pelusharaz     |     [Pelusharaz](https://github.com/Pelusharaz/Pelusharaz)    |    Human     |
