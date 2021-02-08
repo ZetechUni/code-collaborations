@@ -61,4 +61,5 @@ Fork the Repo and add details as described in the activity challenge:
 |41 |    Pelusharaz   |    [Pelusharaz](https://github.com/Pelusharaz/Pelusharaz)    |    Upcoming software engineer  |
 |42 | Davidkioko      |    [https://github.com/Davidkioko/Davidkioko]  | A Friend |
 |43|    hannah-544     |https://github.com/hannah-544/hannah-544 |Intermediate Python programmer   |
+|44 |  khidawo   | https://github.com/khidawo/khidawo | gwala |
 
